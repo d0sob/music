@@ -24,19 +24,19 @@
 nav{
     display: flex;
     justify-content: space-between;
-    margin-bottom: 30px;
+    margin-bottom: 10vh;
 }
 nav .circle{
     border-radius: 50%;
-    width: 40px;
-    height: 40px;
-    line-height: 40px;
+    width: 10vh;
+    height: 10vh;
+    line-height: 10vh;
     background: #fff;
     color: #f53192;
     box-shadow: 0 5px 10px rgba(255,26,26,0.22);
 }
 .song-img{
-    width: 220px;
+    width: 30vh;
     border-radius: 50%;
     border: 8px solid #fff;
     box-shadow: 0 10px 60px rgba(255,26,26,0.22);
