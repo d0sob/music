@@ -87,6 +87,7 @@ nav .circle{
     color: #f53192;
     box-shadow: 0 10px 20px rgba(255,26,26,0.22);
     cursor: pointer;
+    -webkit-tap-highlight-color: transparent;
 }
 .controls div:nth-child(2){
     transform: scale(1.5);
