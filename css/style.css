@@ -59,6 +59,7 @@ nav .circle{
     border-radius:4px;
     cursor: pointer;
     margin: 40px 0;
+    -webkit-tap-highlight-color: transparent;
 }
 #progress::-webkit-slider-thumb{
     -webkit-appearance: none;
@@ -69,6 +70,7 @@ nav .circle{
     border-radius: 50%;
     border: 8px solid #fff;
     box-shadow: 0 5px 5px rgba(255,26,26,0.22);
+    -webkit-tap-highlight-color: transparent;
 }
 .controls{
     display: flex;
