@@ -10,7 +10,7 @@ let songList = ['./demons.mp3','./its.mp3','./moral.mp3'];
 
 img.setAttribute('src', 'https://www.shutterstock.com/image-vector/cute-cartoon-rubber-duck-vector-600nw-2276837591.jpg');
 
-source.setAttribute('src', 'songs/moral.mp3');
+source.setAttribute('src', 'songs/heatWaves.mp3');
 
 mainCss.setAttribute('href','css/style.css');
 
